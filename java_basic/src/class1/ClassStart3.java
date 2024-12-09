@@ -9,8 +9,8 @@ public class ClassStart3 {
 		student1.age = 15;
 		student1.grade = 90;
 		
-		Student student2 = new Student();//객체, 인스턴스(둘의 차이점은 없지만 설명할때 어디소속인지 알릴때는 인스턴스라고 한다)
-		student2.name = "학생2";
+		Student student2 = new Student();//객체, 인스턴스(둘의 차이점은 없지만 설명할때 어디소속인지 알릴때는 인스턴스라고 한다
+		student2.name = "학생2";			 // ex)student2는 객체야, student2가 Student 클래스의 인스턴스야)
 		student2.age = 16;
 		student2.grade = 80;
 		
