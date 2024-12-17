@@ -1,7 +1,7 @@
 package access;
 
 public class Speaker {
-	int volume;
+	private int volume; //private가 붙으면 이 클래스 안에서만 사용 가능하다.
 	
 	Speaker(int volume){
 		this.volume = volume;
